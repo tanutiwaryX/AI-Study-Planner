@@ -1,0 +1,9 @@
+streamlit>=1.32
+textblob>=0.18
+nltk>=3.8
+pandas>=2.0
+plotly>=5.18
+reportlab>=4.0
+# Optional abstractive summarization (install separately if desired):
+# transformers>=4.38
+# torch>=2.1
